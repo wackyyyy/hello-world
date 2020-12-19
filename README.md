@@ -1,2 +1,2 @@
 # hello-world
-Learning
+GitHub 101
